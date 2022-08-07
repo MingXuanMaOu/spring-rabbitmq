@@ -1,0 +1,8 @@
+spring:
+  rabbitmq:
+    host: 101.43.166.26
+    port: 5672
+    virtual-host: /itcast
+    stream:
+      username: guest
+      password: guest
